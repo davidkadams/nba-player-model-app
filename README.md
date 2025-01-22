@@ -1,5 +1,5 @@
 # nba-player-model-app
-# by David Adams
+by David Adams
 
 Welcome! This is a small-scale model project I created, combining my interest in sports and data science.
 

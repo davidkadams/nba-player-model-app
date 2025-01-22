@@ -1,6 +1,6 @@
 pandas==2.2.3
 nba_api==1.7.0
-numpy==2.2.2
+numpy==2.26.0
 scikit-learn==1.6.1
 streamlit==1.41.1
 
